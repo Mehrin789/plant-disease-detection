@@ -8,12 +8,19 @@ It is built with **TensorFlow/Keras** for training and **Streamlit** for deploym
  Project Structure
 
 ├── test_images/ # sample images for testing
+
 ├── trained_model/ # saved trained model (.h5)
-│ └── plant_disease_prediction_model.h5
+
+│── plant_disease_prediction_model.h5
+
 ├── venv/ or .venv/ # virtual environment
+
 ├── Plant_Disease_Detection_CNN_Image_Classifier.ipynb # training notebook
+
 ├── main.py # Streamlit app
+
 ├── requirements.txt # dependencies
+
 └── README.md # project documentation
 
 Installation & Setup
