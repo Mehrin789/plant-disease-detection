@@ -32,7 +32,7 @@ cd plant-disease-detection
 ```
    
 2. Create and activate a virtual environment
-3. ```bash
+```bash
 python -m venv venv
 venv\Scripts\activate
 ```
