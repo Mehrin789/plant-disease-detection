@@ -1,4 +1,9 @@
-numpy==1.26.3
-streamlit==1.30.0
-tensorflow>=2.15.0
+streamlit
+tensorflow==2.15.0
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+
 
