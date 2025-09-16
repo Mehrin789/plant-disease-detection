@@ -26,22 +26,24 @@ It is built with **TensorFlow/Keras** for training and **Streamlit** for deploym
 Installation & Setup
 
 1. **Clone the repository** (or download the folder).
-   ```bash
-   git clone https://github.com/your-username/plant-disease-detection.git
-   cd plant-disease-detection
-   ```
+```bash
+git clone https://github.com/your-username/plant-disease-detection.git
+cd plant-disease-detection
+```
+   
 2. Create and activate a virtual environment
-  ```bash
-   python -m venv venv
+3. ```bash
+python -m venv venv
 venv\Scripts\activate
 ```
+
 3. Install dependencies
-  ```bash
-   pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 
 4. Run the Streamlit app
-    ```bash
+```bash
 streamlit run main.py
 ```
 
